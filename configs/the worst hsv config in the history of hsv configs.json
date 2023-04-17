@@ -1,0 +1,284 @@
+{
+  "majorVersion": 3,
+  "minorVersion": 3,
+  "patchVersion": 3,
+  "isDefaultConfig": false,
+  "displayMode": "format",
+  "doIntermediateUpdates": true,
+  "timeDependencyDecimalPrecision": 1,
+  "timeDependencyDecimalOffset": 2,
+  "judgments": [
+    {
+      "threshold": 115,
+      "text": "<size=10000%>YOU %nARE %nREADY %nNOW</size>",
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 114,
+      "text": "<size=600%>https://discord.gg/5qeWudArEv</size>",
+      "color": [
+        0,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 113,
+      "text": "<size=500%>:(</size><size=200%>%nYour PC ran into a problem and needs to restart.%nWe're just collecting some error info, and then%nwe'll restart for you. (0%% complete)</size>%nIf you'd like to know more, you can search online later for this error: CLOCK_WATCHDOG_TIMEOUT",
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 112,
+      "text": "<size=50%>xxxxxxxxxxxxxxxxxxoc:;;,,,,,,,;::cldxxxxxxxxxxxxxxxxxxxxxxxxxxxx%nxxxxxxxxxxxxxxxxdoc:,'.....',,'',,;cdkkkkkxxxxxxxxxxxxxxxxxxxxxx%nkkxxxxxxxxxxddoolc:;,'......'''''',;lxkkkkxxxxxxxxxkxxxxxxxxxxxx%nkkkxxxxxxxxxddolc:::;;;;;;;;;;;,,,,,:okkkkkxxxxxxxkkkxxxxxxxxxxx%nOOOkkxxxxxxxxdc;;::::cllllloooollc;,;oxkkkkkkxxxxxkkkkxxxxxxxxxx%nOOOOkkkxxxxxxo;,:::::ccllloooooool:,;oxkkkkkkxxxxxkkkkkxxxxxxxxx%nOkOOOkkkxxxxdc;;:::;::::clllooooooc;cdxkkkkkkxxxxxkkkkxxxxxxxxxx%nOOOOOkkxxxxxoc:cc::;;:;;:clc:cllll:;ldxxxkkkkxxxxxkkkkxxxxxxxxxx%nOOOkkkxxxxdoloddlc:ccc:;:llc::clllccdxxxxxxkkkxxxxkkkkkxxxxxxxxx%nOkkkkxxxxxoccldolc:cc::;:loooooooloxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%nkkkxxxxxxxdoccllc::::::::clooooooloxxxxxxxxxxxxxxxxxxxxxxxkkxxxx%nkkkxxxkkkxxxoolccc:::;:ccloooolllodxkkkxxxxxxxxxxxxxxxxxxkkkkkkx%nkkkkkkkkkkkkkxoccc::;,;;;;clllooddkkkkkkkxxxxxxxxxxxxxxxkkkkkkkk%nkkkkkkkkkkkkkxolccc::::ccclllodxkkkkkkkkkkxxxxxxxxxxxxxxkkkkkkkk%nkkkkOOOkkkkkkxocc::::ccllollldkkkkkkkkkkkkxxxxxxxxxxxxxkkkkkkkkk%nkkkkkkkkkxxxxxocc:::::cclllllodxkkkkkkkkkkkkkxxxxxxxxxkkkkkkkkkk%nxxxxxxxxxxxxxdlc::::::cclllool::cldxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%nkkkkkkxxxxxxxdollllccclllllloo;...,:looddxxxxxxxxxxxxxxkkkkkkkkk%nkkkkkxxddodxdlcllccc:ccclllodo;.....';;::ccllooddxxxxxxxkkkkkkkk%nkxxdoc:;;:odoc::::cc::::ccodxo,........',,',,',,;:clldxxxxxxxkkk%nolc;'....,odoc::::cc:::cldxxd:.......................,lxxxxxxxkk%n;'.......'ldoc::::cc:clodddo:'........................,lxxxxxxkk%n..........cdlc:cccllloddddo;...........................:dxxxxxxx%n..........',;:cllllc::cllc;'...........................;oxxxxxxx%n.............;codl:::::;;,'............................;oxxxxxxx%n.............;ldxoc::;;,,''...............'...........'lxxxxxxxx%n.............,codl:;,,,,,,'..............,c:'.........:xxxxxxxxx%n.............,cooc;,,,,;;;'..... ........,::,.........:dxxxxkxxx%n.............':ll:;;;;;;;;'....   ........,::'..';::,;lxxxxxxxxx%n.............';:;;;;;;;;;;'...        ....,:::;clolc;;cdxxxxxxxx%n..............;::;;;;;;;;;,...          ..,;::::c:;'...,ldxxxxxx%n..............;::;;;;;::;;,'..          ..,;;:::lo:'....,lxxxxxx%n</size>",
+      "color": [
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 111,
+      "text": "<size=40%><cspace=0.3em>.................',,'...................','......'',;;;::cclloddxxxxkkOOOOOOOOOkxxxxddollcc:,''''......',;;:ccllllllllllllllllll%n.......................................'',,,,..,:clooddxkkOOOO000KKKXXXNNNNNNNNXXKKK000000Okxxdl:;,'.........;::cllllllllllllool%n..............''''''..............'',,,,;;::;''cdxxkkkOOOO00000KKKKXXXXNNNNNNNNNNXXXKK00000000OOxdlc;'...........;cllllllolloooo%n.............''''''...........',;;;:::::::cc;';dkkkOOOOOOO0000KKKKKXXXNNNNWWWWWWNXKKKKKK00000000Okkxoc;'..........,:lllloooooooo%n...'',,;::co:'.............',;::cccc:::::;;,,:dkkkkkkOOOOO0000KKKKXXXXXXNNWWWWWWNNXKK00000K0000000Okxol:,...........:llloooooooo%nOkxxdddooolc:;...........',;;:cccccc:;;;;;;coxOOOOOOOOOOOO000KKKKKKXXXXXXNNNWWWNNNXXKK000KKKKK00OOOOkxoc;,..........;llloooooodd%nXXNNNNWNNN0l,..........',;;;;;::::::::::cloxkkOOOOOO0OOOOO0000KKKKKKKKXXXNNNNWWNNNNXXKKKKKKK000000OOOkdl:;'.........:odooodddddd%nNNNNNNNNNNXx,..........;::;;,;;;;::lloodxxkkOOOOOOOOOOOOOOO00000000KKKKKKKXXNNNWWWNNXXKKKK000000000OOkdl;,..........;odddddddddd%nNNNNNNNNNNNk,.........';;;;;;;,,;cldxxddxkkkOOkkkkkkkkOkkkkkOOOOOO0000000000KKXNNNXXKKKKK000K000000OOkxo:,..........,odddddddddd%nWNWWWWNNWNNKd'........,;;;;,,,,,',;:cclloddxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkOOOOkkxxxxxxdxxxxkkOOO00OOxo:,........'cddddddddddd%nWWWWWWWWWWWWNx'......',,'''''''........'',;::cccllllloooodddxxxxxxdddddolllc::;,''......'',,;;;;:clodkOOkdc.........lxddddddddxx%nWWWWWWWWWWWWWNo.....''...',;::;,,'.............'',,,;;:cccloddxddoollcc:::;,'................'',;:::cokO00x;........cddddddddddx%nWWWWWWWWWWWWWK;.......',;;:;'.......''.............'',;;;coxk000OOxoccc:;'......''...'';cl:......;loxOKK000l.......:xxddddddddxx%nWWWWWWWWWWWNWXl.....,;::::;'......,;:,...............',,cdkk0KXNXX0xl:,......',;,.......;dxlccll::loxkkkO00o'..,cccoxxddxddddxxx%nWWWWWWWWWWWNNWK;....ccc:;;,,'..'''',,'.................:dxkOO0KXNNXOxo;''....',,,,;;;clooxxxxxxkxddxkOO000Od;...:loxkxdxxxddxxxx%nWWWWWWWWWWWWNXk,...'cc:;;;,''...'''','................':dxkO00KXXXKOkxxdolccccccccccccclloodxOOOOkkxdolodxkxc'..;cokOxddddddxxxx%nNNNNWWWWWWWWN0:....,:::;;;;;;;;;;;;;,,,,,;;::ccc;,''''';ldkOOKKK00OkkxxkkkxxxxxddooollloodxxkO00OO000Okdooddl'.':lx00kddddddxxxx%nNNNNNNNNNNWWN0;....,;;;;;::cllodxxkkkxxxddoooolc;,,,,,,;coxk0K0OOkkxxxxxkkkkxxdddddddddxxxxkkOOOOO0000KKOxolccccoO0KKOdxddddxxxx%nNNNNNNNNNNWWXo.....',,;;::clloddxxxxxddolccc::::;;,,,,:clodxO000OOkxxddxkkkkkxolllccccllodxxxkxxxxxkkkO00kkxlokOKXXXKOxddddxxxxx%nNNNNNNNNNNNNXo,,...,;;;;:ccllloooolc::;;,,,,,,;::;,,,;cloddxxkOOOOkkkxxxkkkkkxddddol::;,,',,;:ccllloxxxodxdxkk0KKXXX0kxxxddxxxxx%nNNNNNNNNNNNNNX0d,..;;;;;::::c:;;,''''''',,,,,,,;;;,;;:cldxkkxxkkkkkkxxddooodddxkxxddoolc:;,'''''',;:okOd:codxxxxxxxxxxxxxddxxxdc%nNNNNNNNNNNNNNNNXOc,;;,;;;;;,'.......'''',,'','',,,,,,,;:codxddddoolc::cclloddxxxxxddollcc:;,'.......,cxxc;lodxdoodddxxddooddxdo,%nNNNNNNNNNNNNNNNNNXdcc;,,,,;'.',.........''',,,,,''''''''',,;;::;;;;;:cloddddoooolc::;,,'............,:ldc;cldxdooooooddoooddxxxo%nNXXNNNNNNNNNNNNNNNkxkc;;,;::,;c:;,,'........''''''''''''''',,;;::clllllccc::::cc::;;::.....';:;,'.':clol:cldddoooolloloooooxxxxx%nXXXXNNXXNNNNXNNNXNko00l;;;:ccc:clc::;'.....::;;:c:;;;;;,,,;;;::cccclllloddooxOK0kkkxOd'..:loollc,,loollcclodoooollllllllclddxxxx%nXXXXXXXXXXXXXXXXXN0cxNKdc:;;:clccllc;,,'...,lO0KX0OKXKkxkOOOkxdk0KXXXXXNWWNXNWWWNNXxc,':oddoool;:odolcccodddoooolcclloolclddxxxo%nXXXXXXXXXXXXXXXXXXXolKNX0dc:;::clcclc:;,'....,lxKXNMMWNWWMMWWNKXMMMMWMWMMMMNNNX0dl:,,;cdxxxxxollddlcccldxxdoollc::;;::ccclodoc,.%nXXXXXXXXXXXXXXXXXXXd:ONNNXKko:;,;clcccc;;,'.....',:odookKXXXXX0KXXXXXX0kxxxxdoool:;;:coxkkkkxddxdlcllloooolllc:::;..............%nXXXXXXXXXXXXXXXXXXXk:xNXNXXXKOdl;,;clccc:;;,'........,,;:c:::;,,;;:::cc;okx0XK0kolccldkkOOOkxxxoc:ccllooolc:cccc:;..............%nKKKKKKXXXXXKKKKKKKKKoc0XXKKK0Okkoc;,;ccc::;;;,,'''''':ccodoodxdoodkxxOOkk00OkkxollodkkOOOOOkOxl::::clodool:clodo;'..............%nKKKKKKKKKKKKKKKKKKKKk;cxdollcc::,,,,',;:::;;;;;;::::;;;;::ccloooooodddxddddoooddxxkkOOO00OOOkollloxxolok00Okxxdc................%nKKKKKKKK000OOkxdolcc:..,:;;:cc:'..;;''.',;;;;;;;;;:cccccccllloooooooddddxxxkkkkkkkkOOO0OOOOdlloddxxkkl',lkO00K0kdl:,'...........%n0OOkxdoolc::;,''',;;,..,:::cc:'..':;,'....',;;;::;;:::cclllooooooooooodddxxkkkkkkOOOOOOOxoc:clddxxkkkkc.'oOO00KKKXXKK0Okxdol:,..%noolc;,,'''',,,,;;:;,'..;cccc:'..;:;,''......',;:cccccccllooooddddddddddxxkkkOOOOOOOOOkdl:,,,;:codxkkOOo..dKKKKKKKXXXKKKKKKKKKK0k%n;::;''....',,,',;:;,'..::::c,.'::;,'''''''''...';clllooooddddxxxdxxxxxkkkkOOOOOOOOOxoc;:clolc;,,:ldkOOo.,kKKKKKKKKKXXXXXXKKKKKKK%n;::;'....'',,,,;::;,,..;::::,..',,''''','''''''..,:clloooddddxxxxxxxxxxkkxkkkkkkkxo:,;:cclodxdc,.';cdkx:o0K00KKKKKKKKKXKXXKKXXXX%n</cspace></size>",
+      "color": [
+        1,
+        0.7,
+        0.8,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 110,
+      "text": "<size=500%>Beat Saber is a virtual reality rhythm game developed and published by Czech game developer Beat Games.%n It takes place in a surrealistic neon environment and features the player slicing blocks representing musical beats with a pair of contrasting-colored sabers.%n Following an early access release in November 2018, the game was officially released for PlayStation 4 and Windows on May 21, 2019, and supports most virtual reality headsets including HTC Vive, Oculus Quest, Quest 2 and Quest Pro, PlayStation VR, and Valve Index.%n The game is also scheduled to become available on the PlayStation 5 with PlayStation VR2 support.</size>%n The player uses VR motion controllers to wield a pair of glowing sabers, which by default are colored red and blue for left and right respectively.%n In each song, the game presents the player with a stream of approaching blocks laid out in sync with the song's beats and notes, located in one of the 12 possible positions of a 4x3 grid.%n Each one may also be marked with an arrow indicating one of eight possible directions in which the block may be required to be cut through.%n There are also blocks with dots instead of arrows, which players may hit in any direction.%n When a block is properly cut by a saber, it is destroyed and a score is awarded, based on the length and angle of the swing and the accuracy of the cut.%n In addition, there are occasionally bombs that the player should not hit, and obstacles in the form of oncoming walls that the player's head should avoid.%n Underneath the path where the blocks travel is a white bar that slowly fills up as the player hits notes correctly.%n If the player hits any note in the incorrect direction, this 'energy bar' will decrease by a small bit.%n If the player completely misses a note, the bar will lose a larger amount.%n If the bar becomes completely empty, the level will end.%n Since the addition of Original Soundtrack (OST) 5, two new mechanics were introduced to the game.%n One new mechanic features a new block called a Chain, which starts with a 'slice' which indicates which direction to cut.%n After the lead slice, there are a number of smaller 'slices' which can be cut.%n The other new mechanic is the arc. An arc is a line showing the recommended path for your saber to follow.%n It is connected to a block and continues on until it either connects to another block or stops altogether.%n Both of these new mechanics also calculate score differently than the original blocks.",
+      "color": [
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 109,
+      "text": "<size=1000000%>FLASHBANG</size>",
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 108,
+      "text": "<size=200%>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do%n eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim%n ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut%n aliquip ex ea commodo consequat. Duis aute irure dolor in%n reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla%n pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa%n qui officia deserunt mollit anim id est laborum.</size>",
+      "color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 107,
+      "text": "<size=700%>Clearly</size>",
+      "color": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 106,
+      "text": "<size=600%>cAn YoU pLaY rUsH eEEee?//??</size>",
+      "color": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 105,
+      "text": "<size=600%>your performance is on par with the %nquality of the rift s microphone you turd</size>",
+      "color": [
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 104,
+      "text": "<size=700%>Tracking Lost</size>%n Something went wrong and your device can't track its movement or %n position in your playing area. %n %n Guardian is disabled when tracking is off, and you won't be alerted %n to your playing area boundary. If you choose to continue without %n tracking, use a fixed standing or seated position to avoid injury or%n damage.",
+      "color": [
+        1.0,
+        1.0,
+        0.5,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 103,
+      "text": "<size=1250%><b>Power off</b>%n%nShutting down...</size>",
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 102,
+      "text": "<size=800%> Hardware Notification %n%n Your right Touch controller's battery is low. </size>",
+      "color": [
+        1.0,
+        0.750,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 101,
+      "text": "<align='left'><size=40%><cspace=0.2em>........,..................',,,,,;:loddxxxxxxkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkkxddolc:;::::,'................,........%n ........,..................',;;;:cldxk0KKKK0KKXNNNNNNNNNNNNNNNNNNNNNNNNNNNNWWWWNNNXXXK0OOkdoc:::ccccc;''...............'........%n ........,...................';:ccclodk00KKK00KXXXNNNNNNNNNNNNNNNNNXXXNNNNNNNNNNXK00Okdoc:;,'.......,;,.................'........%n ........,...............',;;,,;ccccldxxkO000KKXXXNNNNNNNNNNNNNNNNNXXNNNNXXXKOkxl:;;'...................................'........%n ........,......,,',..';;cddl;'....',,,,;cldxkO00KXXXXXNNXXXXXXNNNNNXXXK0Okdc,..........................................'........%n ........,......',',........................',;;:clloxO0K0KXXXXXXXXXK0kxdlc;,'................'''...................,cc',........%n ........,...........................................,:llodk0KKXXXXKOkdoc:;,,''''''............''.....'.............,cc',........%n ........,............................................',,,;cdO0KXXK0Oxoc:::;;;::;::'..,'...,'.....',,;;,................'........%n ........,.............................'.........;;',;::;;,;lxOKXXKOxoc:clddolcclkO:..;....oo,...';:cc:,................'........%n ........,............................;dl.......'xOdlloxxo::oxOKXXKOxooox0KOxddxOXXk:,...,lkko;.;::clc:;................'........%n ........,...................,,,'''..:oxko,....:xKKOkkxkK0xoxO0KXXK0OkkOKNXXXK000KKK0kxodxkxdc,;:cloolc;................'........%n ........,...................,;::::,',coxOOkxxkKKK00KXNXXX0kOKXXNXXKK00KXXXXK0OOOOO0OOkoodl:,,;:cldddlc;................'........%n ........,...................,:ccllc;'',:ldxkkkOOkkO0KXXXKOO0XXNNNNXXK0KXXXNXK0OOkkxxxdolc:;:llldkkkdoc,................'........%n ........,...................':clodoll:;;:clodxxkkkOKXXXK0OOKXNNNNNXXK00KXXNNXXK0OkkkddoooodxxxkO0Okdoc,................'........%n ........,....................;codddddddolclloddxk0KXXK000kOKXNWWNNXK0O0KKKXXXXXKK0000OOOOOOOOO00Okxdl:,................'........%n ........,....................':oxxxkxxxxxxxxxkkO0KXXK000OkkKNNWNNNX0OOO0000KXXXXXXKKK00KKKK0KK00Okdoc;.................'........%n ........,.....................,cdxO000000OO000KKXXXX0OOkxdk0XNWNNXKOkkkkOO00KXXXXXXXXXXXXXKK0000kxol:,.................'........%n ........,......................;ldxO000000KKKKXXXXXK0kkxddx0XNWNNX0OxdxxOOO0KXXXXXXXXXNXXXXK000Okdl:,'.................'........%n ........,......................,:ldkkOO00KKXXXXXXXXK0kxdodk0XNWNNX0kxddxkkO0KXXXNXXNNNNNXXXK000Oxo:'...................'........%n ........,......................';coxxk00KKKXXXXXXXXXKkdooxOKXNWNNXKOxdodxxk0KXNNNNNNNXXXXXKK00Oxoc,....................'........%n ........,'......................';ldxkO00KKKKKXXXXXX0kdddk0KXNWWNNXKOxdxOOk0XXNXXXXXXXXXXK000Okdo:'....................'........%n ........;c;......................';ldxkk00KKKKXXXXXK0kdxxk0KXNWWWWNK0kxk00OOKXXXKKKKKKKKK00Okxdoc,.....................'........%n ........,;.......................',:lodxO00KKXXXXXKK0kddxOKXNNWWWWWNKOxxkOkk0XXKK0OOkO0000OOkdol;......................'........%n ........;,''......................',:loxkO00KKKKK00K0xllx0KXNNWWWWWNX0kdxkxdkKK000OOkxddxkkxxol;'......................'........%n ........;cooc'......................':ldxxk00K000000Odlcok0KXNNNNNNNX0kollclk000OOOOOOkolclool:'.......................'........%n ........;cll:,.......................,:ldxkOOOOO0000Oxl;;cok0KXXXXKK0xc;,,:oxOOOOkkxxxkkdc:loc,........................'........%n ........;;,,,'.......................',:loxkkkOOOOOOkxo:'.';coddddolc;''';lodxkxddoc;;::c;,cl:.........................'........%n ........;c;.''........................',:loddxxxxxxxxdoc;'..............';clc:c:,'.........;c,.........................'........%n ........;l:.''.........................';clllooooooooolc;,'...............'''.............':;..........................'........%n ........;;'..'..........................,:c:;,;;;;;,,,,'.............................''...;;...........................'........%n ........,'...'...........................,'.......................................,:ccc;'''............................'........%n ........,...''...........................'.........................',;,........',:clcc:::,.............................'........%n ........,..'..''............................................'',,;;:c:;,'..',,;;;:ccc::::;'.............................'........%n ........,........................................''........'''',,,,;:cclllcc:;;::c:;;::;'..............................'........%n ........,........................................',,'',::clooddxxxxxxkxoc;,''',;:c:;:c;................................'........%n ........,..........................................'...';:cloooodooc:;'......';:clccc:'................................'........%n ........,.......................................''''.......................';cloolcc:,.................................'........%n ........,........................................,;:::;''................;:looddol:;'..................................'........%n ........,.........................................;:clccc:;;,.........,;lddddoool:;....................................,........%n ........,..........................................,;:cllloll:'..,::,:lcloxxollc:,................................,.'c:,........%n ........,...;;......................................';clllc::,''',cl::c;',;;:c:;'................................;c:co:,........%n ........,.'odxo....,,,....''.........................';;,'........',',;'.........................................lkxoc,,........%n ........,..;cl:......'...,'''....................................................................................cxxlc,,........%n ........;'..''.....'''...''',........................................................'...........................',;;:,;........%n ................................................................................................................................%n ................................................................................................................................%n ...................................................;;,'.:,..............:,......................................................%n ..................................................'l....:;:lcc.'::o;'l,.:;:;;;..................................................%n ...................................................;:'..;,;l;'.:dcl;';..:'.ol...................................................%n ...........................................................................;'...................................................%n ................................................................................................................................%n ................................................................................................................................%n ...............................,;,''.'..',,,..''',''',,''...,,,'',,'',,'':..,,..',''..,::,''..',,.',,,'.........................%n ............................................................'......''...............................''..........................%n ................................................................................................................................%n ................................................................................................................................%n</cspace></size></align>",
+      "color": [
+        1.0,
+        0.750,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 100,
+      "text": "<size=800%>oMg sTuPiD lAg mAdE mE mIsSSSssS!11!111</size>%n%n<size=1%>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%n</size>",
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 99,
+      "text": "<size=650%>pLaY gOrRiLlA tAg!111!!!111!</size>",
+      "color": [
+        0.604,
+        0.405,
+        0.7,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 98,
+      "text": "hello i am a very normal score number. your score is 98. bye!",
+      "color": [
+        1,
+        1,
+        1,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 97,
+      "text": "aeiou",
+      "color": [
+        0.5,
+        1,
+        0.5,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 96,
+      "text": "<size=200%>njs cheese is the worst kind of cheese, even worse than american</size>",
+      "color": [
+        1,
+        0.5,
+        0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 95,
+      "text": "njs cheese is the worst kind of cheese, even worse than american",
+      "color": [
+        1,
+        0.5,
+        0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 0,
+      "text": "<size=400%>YOU ARE POO POO</size>%n%s",
+      "color": [
+        0.3,
+        0.15,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    }
+  ],
+  "beforeCutAngleJudgments": [
+    {
+      "threshold": 70,
+      "text": "+"
+    },
+    {
+      "threshold": 0,
+      "text": " "
+    }
+  ],
+  "accuracyJudgments": [
+    {
+      "threshold": 15,
+      "text": " + "
+    },
+    {
+      "threshold": 0,
+      "text": " "
+    }
+  ],
+  "afterCutAngleJudgments": [
+    {
+      "threshold": 30,
+      "text": " + "
+    },
+    {
+      "threshold": 0,
+      "text": " "
+    }
+  ]
+}
